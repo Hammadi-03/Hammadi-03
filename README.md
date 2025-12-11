@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hoi!, Welcom! 
 <br>🌱 I’m currently learning web development <br>
 
 ## 🌐 Socials:
