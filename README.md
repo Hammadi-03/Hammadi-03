@@ -11,9 +11,7 @@
   <img src="link_to_your_header_image.gif" alt="Header Image" width="100%" />
 
   <br/>
-  <p>
-    <b>CEHv13 | CRTA | CAP v2 | CNSP | CAPC | EHE | Penetration Tester | Ethical Hacker | ISO 27001:2022 | IT GRC</b>
-  </p>
+ 
   <hr>
 
 </div>
